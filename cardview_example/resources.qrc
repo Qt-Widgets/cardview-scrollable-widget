@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/pixmap/cardimage_300_150.jpg</file>
+        <file>resource/pixmap/cardimage_free_size.jpg</file>
+    </qresource>
+</RCC>
