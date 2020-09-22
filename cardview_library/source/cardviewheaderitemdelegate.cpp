@@ -1,6 +1,7 @@
 #include <QStyleOptionViewItemV4>
 #include <QPainter>
 #include <QPainterPath>
+
 #include "include/cardviewwrappermodel.h"
 #include "include/cardviewheaderitemdelegate.h"
 
